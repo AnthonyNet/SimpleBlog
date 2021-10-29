@@ -10,9 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "dompurify": "^2.3.3",
     "ejs": "^3.1.6",
     "express": "^4.17.1",
+    "jsdom": "^18.0.0",
     "marked": "^3.0.8",
+    "method-override": "^3.0.0",
     "mongoose": "^6.0.12",
     "slugify": "^1.6.1"
   },
